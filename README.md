@@ -17,10 +17,10 @@
  - cd ml_foundations/notebooks
  - All assignments from week_2 to week_6 
 
-## Quizzes
+## Python Quizzes
 
  - cd ml_foundations/quizzes
- - All quizzes from week_2 to week_6 
+ - All quizzes.py from week_2 to week_6 
 
 ## Authors
 
