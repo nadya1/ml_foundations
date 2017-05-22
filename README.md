@@ -20,8 +20,4 @@
 ## Python Quizzes
 
  - cd ml_foundations/quizzes
- - All quizzes.py from week_2 to week_6 
-
-## Authors
-
- - Nadya Ortiz
+ - All quizzes.py from week_2 to week_6
